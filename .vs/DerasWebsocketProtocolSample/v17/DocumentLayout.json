@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C65E451-47C8-4CA6-916C-70F84ED32B0A}|DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample.csproj|c:\\users\\administrator\\desktop\\playground\\deraswebsocketprotocolsample\\deraswebsocketprotocolsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C65E451-47C8-4CA6-916C-70F84ED32B0A}|DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample.csproj|solutionrelative:deraswebsocketprotocolsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C65E451-47C8-4CA6-916C-70F84ED32B0A}|DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample.csproj|c:\\users\\administrator\\desktop\\playground\\deraswebsocketprotocolsample\\deraswebsocketprotocolsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C65E451-47C8-4CA6-916C-70F84ED32B0A}|DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample.csproj|solutionrelative:deraswebsocketprotocolsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C65E451-47C8-4CA6-916C-70F84ED32B0A}|DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample.csproj|c:\\users\\administrator\\desktop\\playground\\deraswebsocketprotocolsample\\deraswebsocketprotocolsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C65E451-47C8-4CA6-916C-70F84ED32B0A}|DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample.csproj|solutionrelative:deraswebsocketprotocolsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{33c88fe3-43b3-374e-9aac-c4679036dce0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample\\Form1.cs",
+              "RelativeDocumentMoniker": "DerasWebsocketProtocolSample\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample\\Form1.cs",
+              "RelativeToolTip": "DerasWebsocketProtocolSample\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:37:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample\\Program.cs",
+              "RelativeDocumentMoniker": "DerasWebsocketProtocolSample\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample\\Program.cs",
+              "RelativeToolTip": "DerasWebsocketProtocolSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:37:35.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample\\Form1.cs",
+              "RelativeDocumentMoniker": "DerasWebsocketProtocolSample\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample\\Form1.cs [Design]",
+              "RelativeToolTip": "DerasWebsocketProtocolSample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:37:18.212Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

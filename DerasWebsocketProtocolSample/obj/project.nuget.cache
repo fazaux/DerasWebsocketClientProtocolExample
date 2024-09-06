@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MinuWZIysgvTT5iocNRb/0uBCmNMLbFeauHBXJ5AEZAzIiyM2s54utUJMdL5TpkWZtIuuB9auOG8SH2T78gbkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\playground\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample\\DerasWebsocketProtocolSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
